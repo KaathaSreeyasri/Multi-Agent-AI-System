@@ -85,10 +85,10 @@ Makes data accessible to other agents if needed later. This can be expanded late
 6. Results are printed to the console.
 
 ## How to Execute
-#### Install the requirements:
-pip install -r requirements.txt
+   #### Install the requirements:
+   pip install -r requirements.txt
 
 
 
-#### Run the main.py :
-python main.py
+   #### Run the main.py :
+   python main.py
