@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-123",
+  "date": "2024-05-30",
+  "vendor": "ABC Corp",
+  "amount": 1500,
+  "currency": "USD"
+}

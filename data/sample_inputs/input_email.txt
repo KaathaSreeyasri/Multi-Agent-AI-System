@@ -1,0 +1,21 @@
+From: procurement@abccompany.com  
+To: sales@yourcompany.com  
+Subject: Request for Quotation - Office Supplies  
+
+Dear Sales Team,
+
+We are looking to procure a batch of office supplies for our new office branch. Could you please send us a quotation for the following items:
+
+- 20 office chairs  
+- 10 desks  
+- 5 filing cabinets  
+- 100 notepads  
+
+Please include estimated delivery time and payment terms.  
+
+Kindly respond by end of this week.
+
+Best regards,  
+Priya Mehta  
+Procurement Manager  
+ABC Company
